@@ -53,6 +53,7 @@ Escribe el comando de la forma que deseas consultar sin ningún parámetro adici
 ### 2. Seleccionar una Apariencia
 Añade el número de índice correspondiente a la opción que deseas utilizar:
 
+```text
 .cat_form 1
 .travel_form 3
 
