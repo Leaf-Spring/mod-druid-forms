@@ -56,6 +56,7 @@ Añade el número de índice correspondiente a la opción que deseas utilizar:
 ```text
 .cat_form 1
 .travel_form 3
+```
 
 > **Nota:** La opción `0` restablece la forma racial predeterminada sin transformaciones personalizadas.
 
