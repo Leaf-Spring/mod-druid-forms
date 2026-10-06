@@ -58,7 +58,7 @@ Añade el número de índice correspondiente a la opción que deseas utilizar:
 .travel_form 3
 ```
 
-> **Nota:** La opción `0` restablece la forma racial predeterminada sin transformaciones personalizadas.
+> **Nota:** Se puede añadir la forma racial predeterminada sin transformaciones personalizadas en el archivo de configuración usando como ID el `0`.
 
 ### 3. Recargar Configuración en Caliente
 Si editas el archivo `mod_druid_forms.conf` mientras el servidor está encendido, puedes aplicar los cambios inmediatamente ejecutando:
