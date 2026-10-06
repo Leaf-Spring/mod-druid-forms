@@ -1,0 +1,49 @@
+[worldserver]
+# ==============================================================================
+# MÓDULO: FORMAS DE DRUIDA GENERALES
+# ==============================================================================
+# IgnoreFaction
+#        0 - (Por defecto) Muestra formas exclusivas según la facción del jugador.
+#        1 - Muestra todas las formas disponibles a todos los jugadores.
+DruidForms.IgnoreFaction = 0
+
+# ==============================================================================
+# CONFIGURACIÓN DE MODELOS
+# Formato: "ID:Nombre, ID2:Nombre2"
+# Nota: Usa el ID 0 para mantener la forma racial natural (Sin transformación).
+# ==============================================================================
+
+# 1. TRAVEL FORM (Forma de Viaje)
+DruidForms.travel.Both = "918:Amarillo con Motas Negras, 14318:Azul Oscuro con Motas Blancas, 6805:Cafe con Rayas Grises, 598:Naranja con Rayas Negras, 954:Blanco con Motas Negras, 2437:Azul Oscuro, 11449:Azul Oscuro con Rayas blancas, 1059:Dorado, 161:Lobo Café, 165:Lobo Gris, 780:Lobo Negro, 802:Lobo Blanco"
+DruidForms.travel.Alliance = ""
+DruidForms.travel.Horde = ""
+
+# 2. CAT FORM (Forma Felina)
+DruidForms.cat.Both = "15506:Lince Rojo, 161:Lobo Café, 165:Lobo Gris, 780:Lobo Negro, 802:Lobo Blanco"
+DruidForms.cat.Alliance = "892:Druida Gato Negro, 29405:Druida Gato Violeta, 29406:Druida Gato Morado, 29407:Druida Gato Azul Oscuro, 29408:Druida Gato Blanco"
+DruidForms.cat.Horde = "8571:Druida Tauren Gato Café, 29409:Druida Tauren Gato Blanco, 29410:Druida Tauren Gato Dorado, 29411:Druida Tauren Gato Rojo, 29412:Druida Tauren Gato Negro"
+
+# 3. BEAR FORM (Forma de Oso y Oso Temible)
+DruidForms.bear.Both = ""
+DruidForms.bear.Alliance = "2281:Druida Oso Rojo, 29413:Druida Oso Morado, 29414:Druida Oso Negro, 29415:Druida Oso Azul, 29416:Druida Oso Blanco"
+DruidForms.bear.Horde = "2289:Druida Tauren Café, 29418:Druida Tauren Negro, 29419:Druida Tauren Plateado, 29420:Druida Tauren Dorado, 29421:Druida Tauren Blanco"
+
+# 4. TREE FORM (Forma de Árbol)
+DruidForms.tree.Both = "0:Forma racial (Sin transformacion), 864:Árbol"
+DruidForms.tree.Alliance = ""
+DruidForms.tree.Horde = ""
+
+# 5. AQUATIC FORM (Forma Acuática)
+DruidForms.aquatic.Both = "2428:Druida León Marino"
+DruidForms.aquatic.Alliance = ""
+DruidForms.aquatic.Horde = ""
+
+# 6. MOONKIN FORM (Forma de Lechúcico Lunar)
+DruidForms.moonkin.Both = "0:Forma racial (Sin transformacion)"
+DruidForms.moonkin.Alliance = "15374:Druida Lechúcico lunar"
+DruidForms.moonkin.Horde = "15375:Druida Tauren Lechúcico lunar"
+
+# 7. FLIGHT FORM (Forma de Vuelo y Vuelo Presto)
+DruidForms.flight.Both = ""
+DruidForms.flight.Alliance = "21243:Druida Cuervo Morado, 20857:Druida Cuervo Negro"
+DruidForms.flight.Horde = "21244:Druida Tauren Cuervo Café Oscuro, 20872:Druida Tauren Cuervo Café Claro"
