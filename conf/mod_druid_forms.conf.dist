@@ -25,7 +25,7 @@ DruidForms.cat.Horde = "8571:Druida Tauren Gato Café, 29409:Druida Tauren Gato 
 
 # 3. BEAR FORM (Forma de Oso y Oso Temible)
 DruidForms.bear.Both = ""
-DruidForms.bear.Alliance = "2281:Druida Oso Rojo, 29413:Druida Oso Morado, 29414:Druida Oso Negro, 29415:Druida Oso Azul, 29416:Druida Oso Blanco"
+DruidForms.bear.Alliance = "29417:Druida Oso Rojo, 29413:Druida Oso Morado, 29414:Druida Oso Negro, 29415:Druida Oso Azul, 29416:Druida Oso Blanco"
 DruidForms.bear.Horde = "2289:Druida Tauren Café, 29418:Druida Tauren Negro, 29419:Druida Tauren Plateado, 29420:Druida Tauren Dorado, 29421:Druida Tauren Blanco"
 
 # 4. TREE FORM (Forma de Árbol)
